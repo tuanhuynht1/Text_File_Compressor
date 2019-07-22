@@ -3,7 +3,8 @@ by Tuan Huynh, 2019
 
 files provided by the University of South Florida, Willam Oropallo, Ph.D, include:
 HeapQueue.hpp
-HuffmanBase.hpp 
+HuffmanBase.hpp
+HuffmanBase.cpp
 
 
 
