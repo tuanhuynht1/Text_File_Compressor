@@ -1,5 +1,6 @@
 -------- Text File Compressor ------
-        by Tuan Huynh, 2019
+by Tuan Huynh, 2019
+
 files provided by the University of South Florida, Willam Oropallo, Ph.D, include:
 HeapQueue.hpp
 HuffmanBase.hpp 
@@ -21,7 +22,7 @@ This program uses command line arguments to compress or decompress text files
 
 To compress a text file:
 
-    Run the executable along as the keyword "compress" as the second argument and the filename as the third argument.
+    Run the executable along with the keyword "compress" as the second argument and the filename as the third argument.
     Ex--    a.exe compress text.txt 
 
     After the program executes, it will compress the original text file, and  
@@ -30,7 +31,7 @@ To compress a text file:
 
 To decompress a text file:
 
-    Run the executable along as the keyword "decompress" as the second argument and the filename as the third argument.
+    Run the executable along with the keyword "decompress" as the second argument and the filename as the third argument.
     Make sure you have the unaltered serializedKey file in the same directory
     Ex--    a.exe decompress text.txt
 
